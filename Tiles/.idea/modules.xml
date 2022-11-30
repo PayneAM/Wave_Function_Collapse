@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TileData/TileData.iml" filepath="$PROJECT_DIR$/TileData/TileData.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Tiles.iml" filepath="$PROJECT_DIR$/.idea/Tiles.iml" />
+    </modules>
+  </component>
+</project>
